@@ -29,7 +29,7 @@ projects:
     - react-electron-boilerplate
     - react-planck
     - react-regl
-    - react-rollup-template
+    - react-rollup-boilerplate
     - react-paperjs
     - react-pie-menu
   exclude:
@@ -41,13 +41,13 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: michael.tran052
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: psycholbolt
   # keybase: your_username
   linkedin: michaeltran-88
   # mastodon: your_username
-  # medium: your_username
+  medium: psychobolt
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
